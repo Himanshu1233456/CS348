@@ -1,0 +1,6 @@
+Assignment-2 (Himanshu_180101031)
+
+1. Program is coded in c and should be compiled with gcc ( I am Using Windows OS )
+2. Program takes input a text file with name - "input.txt" which can be changed in the program if any custom input is to be used and an optable file
+3. Program gives output a symbols file, literals file, and object code file
+4. The same object code file is used by Link-Loader for processing
